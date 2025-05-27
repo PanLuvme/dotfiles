@@ -8,4 +8,4 @@
 
 [Spicetify](https://spicetify.app/) - `customizable Spotify Client`
 
-[Ghostty]([https://spicetify.app/](https://ghostty.org/)) - `fast, feature-rich, and cross-platform terminal emulator`
+[Ghostty](https://ghostty.org/) - `fast, feature-rich, and cross-platform terminal emulator`
