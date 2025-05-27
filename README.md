@@ -6,5 +6,6 @@
 
 [SketchyBar](https://github.com/FelixKratz/SketchyBar) - `reimagined Status/Menu Bar for macOS`
 
-[Spicetify](https://spicetify.app/) - `Customizable Spotify Client`
+[Spicetify](https://spicetify.app/) - `customizable Spotify Client`
 
+[Ghostty]([https://spicetify.app/](https://ghostty.org/)) - `fast, feature-rich, and cross-platform terminal emulator`
