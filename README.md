@@ -4,7 +4,7 @@
 
 [![macOS](https://skillicons.dev/icons?i=apple)](https://skillicons.dev)
 
-`/macOS/dotfiles/` 
+> /macOS/dotfiles/
 
 [AeroSpace](https://nikitabobko.github.io/AeroSpace/guide) - `i3-like tiling window manager for macOS`
 
