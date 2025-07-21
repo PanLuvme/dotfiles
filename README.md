@@ -22,8 +22,12 @@
 
 n/a
 
+---
+
 [![Arch](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
 
 > /Arch/dotfiles/
 
 n/a
+
+---
