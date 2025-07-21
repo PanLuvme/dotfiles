@@ -14,6 +14,8 @@
 
 [Ghostty](https://ghostty.org/) - `fast, feature-rich, and cross-platform terminal emulator`
 
+---
+
 [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
 > /Windows/dotfiles/
