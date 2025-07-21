@@ -14,10 +14,14 @@
 
 [Ghostty](https://ghostty.org/) - `fast, feature-rich, and cross-platform terminal emulator`
 
-For Windows:
+[![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+
+> /Windows/dotfiles/
 
 n/a
 
-For Arch-linux:
+[![Arch](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
+
+> /Arch/dotfiles/
 
 n/a
