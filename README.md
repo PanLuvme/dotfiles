@@ -2,7 +2,7 @@
 
 ## What does my dotfiles include?
 
-For macOS:
+ For macOS:
 
 [AeroSpace](https://nikitabobko.github.io/AeroSpace/guide) - `i3-like tiling window manager for macOS`
 
