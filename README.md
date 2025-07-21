@@ -2,7 +2,9 @@
 
 ## What does my dotfiles include?
 
- macOS dotfiles `/macOS/dotfiles/` :
+[![macOS](https://skillicons.dev/icons?i=apple)](https://skillicons.dev)
+
+`/macOS/dotfiles/` 
 
 [AeroSpace](https://nikitabobko.github.io/AeroSpace/guide) - `i3-like tiling window manager for macOS`
 
